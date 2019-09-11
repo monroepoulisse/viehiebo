@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maeyeishei.jandc2014.com/sitemap.xml
